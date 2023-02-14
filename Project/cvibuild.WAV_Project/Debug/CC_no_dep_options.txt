@@ -1,0 +1,1 @@
+-force-include-file "Main.c";"d:\Lucruri PC\Facultate importanta\Anul 3 CTI\SEM 1\Alex\APD_Proiect\Final_proiect\Project\Main.c" -force-include-file "WAV_Interface.h";"d:\Lucruri PC\Facultate importanta\Anul 3 CTI\SEM 1\Alex\APD_Proiect\Final_proiect\Project\WAV_Interface.h" 

@@ -1,0 +1,80 @@
+[main]
+Class="Function"
+Prototype="int main(int argc, char *argv[]);"
+SourceLocation="d:\Lucruri PC\Facultate importanta\Anul 3 CTI\SEM 1\Alex\APD_Proiect\Final_proiect\Project\Main.c:81:5"
+
+[OnWave]
+Class="Function"
+Prototype="int OnWave(int panel, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Lucruri PC\Facultate importanta\Anul 3 CTI\SEM 1\Alex\APD_Proiect\Final_proiect\Project\Main.c:101:17"
+
+[OnFreq]
+Class="Function"
+Prototype="int OnFreq(int panel, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Lucruri PC\Facultate importanta\Anul 3 CTI\SEM 1\Alex\APD_Proiect\Final_proiect\Project\Main.c:120:17"
+
+[OnPower]
+Class="Function"
+Prototype="int OnPower(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Lucruri PC\Facultate importanta\Anul 3 CTI\SEM 1\Alex\APD_Proiect\Final_proiect\Project\Main.c:139:17"
+
+[OnLoad]
+Class="Function"
+Prototype="int OnLoad(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Lucruri PC\Facultate importanta\Anul 3 CTI\SEM 1\Alex\APD_Proiect\Final_proiect\Project\Main.c:210:17"
+
+[OnPrev]
+Class="Function"
+Prototype="int OnPrev(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Lucruri PC\Facultate importanta\Anul 3 CTI\SEM 1\Alex\APD_Proiect\Final_proiect\Project\Main.c:296:17"
+
+[OnNext]
+Class="Function"
+Prototype="int OnNext(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Lucruri PC\Facultate importanta\Anul 3 CTI\SEM 1\Alex\APD_Proiect\Final_proiect\Project\Main.c:327:17"
+
+[GraphSelection]
+Class="Function"
+Prototype="int GraphSelection(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Lucruri PC\Facultate importanta\Anul 3 CTI\SEM 1\Alex\APD_Proiect\Final_proiect\Project\Main.c:359:17"
+
+[OnApply]
+Class="Function"
+Prototype="int OnApply(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Lucruri PC\Facultate importanta\Anul 3 CTI\SEM 1\Alex\APD_Proiect\Final_proiect\Project\Main.c:541:17"
+
+[OnDev]
+Class="Function"
+Prototype="int OnDev(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Lucruri PC\Facultate importanta\Anul 3 CTI\SEM 1\Alex\APD_Proiect\Final_proiect\Project\Main.c:565:17"
+
+[OnEnvelope]
+Class="Function"
+Prototype="int OnEnvelope(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Lucruri PC\Facultate importanta\Anul 3 CTI\SEM 1\Alex\APD_Proiect\Final_proiect\Project\Main.c:593:17"
+
+[OnPanels]
+Class="Function"
+Prototype="int OnPanels(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Lucruri PC\Facultate importanta\Anul 3 CTI\SEM 1\Alex\APD_Proiect\Final_proiect\Project\Main.c:630:17"
+
+[OnPrevFreq]
+Class="Function"
+Prototype="int OnPrevFreq(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Lucruri PC\Facultate importanta\Anul 3 CTI\SEM 1\Alex\APD_Proiect\Final_proiect\Project\Main.c:658:17"
+
+[OnNextFreq]
+Class="Function"
+Prototype="int OnNextFreq(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Lucruri PC\Facultate importanta\Anul 3 CTI\SEM 1\Alex\APD_Proiect\Final_proiect\Project\Main.c:682:17"
+
+[GraphSelectionFreq]
+Class="Function"
+Prototype="int GraphSelectionFreq(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Lucruri PC\Facultate importanta\Anul 3 CTI\SEM 1\Alex\APD_Proiect\Final_proiect\Project\Main.c:706:17"
+
+[OnSave]
+Class="Function"
+Prototype="int OnSave(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Lucruri PC\Facultate importanta\Anul 3 CTI\SEM 1\Alex\APD_Proiect\Final_proiect\Project\Main.c:1301:17"
+
